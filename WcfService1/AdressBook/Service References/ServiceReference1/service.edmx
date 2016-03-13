@@ -1,0 +1,19 @@
+﻿<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <edmx:DataServices m:DataServiceVersion="1.0" m:MaxDataServiceVersion="3.0" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <Schema Namespace="AdressDBModel" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <EntityType Name="Table">
+        <Key>
+          <PropertyRef Name="Id" />
+        </Key>
+        <Property Name="Id" Type="Edm.Int32" Nullable="false" />
+        <Property Name="FIO" Type="Edm.String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+        <Property Name="Phone" Type="Edm.String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+      </EntityType>
+    </Schema>
+    <Schema Namespace="WcfService1" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <EntityContainer Name="AdressDBEntities" m:IsDefaultEntityContainer="true" p6:LazyLoadingEnabled="true" xmlns:p6="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+        <EntitySet Name="Table" EntityType="AdressDBModel.Table" />
+      </EntityContainer>
+    </Schema>
+  </edmx:DataServices>
+</edmx:Edmx>
