@@ -1,0 +1,127 @@
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\WcfService1.dll.config
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\EntityFramework.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.Edm.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.OData.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.Services.Client.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.Services.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\System.Spatial.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\EntityFramework.xml
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.Edm.xml
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.OData.xml
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.Services.xml
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\Microsoft.Data.Services.Client.xml
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\System.Spatial.xml
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ru\EntityFramework.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\de\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\es\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\fr\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\it\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ja\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ko\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ru\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\de\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\es\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\fr\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\it\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ja\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ko\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\ru\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+c:\users\1\documents\visual studio 2013\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\WcfService1\WcfService1\bin\WcfService1.dll
+D:\WcfService1\WcfService1\bin\WcfService1.pdb
+D:\WcfService1\WcfService1\bin\EntityFramework.dll
+D:\WcfService1\WcfService1\bin\Microsoft.Data.Edm.dll
+D:\WcfService1\WcfService1\bin\Microsoft.Data.OData.dll
+D:\WcfService1\WcfService1\bin\Microsoft.Data.Services.Client.dll
+D:\WcfService1\WcfService1\bin\Microsoft.Data.Services.dll
+D:\WcfService1\WcfService1\bin\System.Spatial.dll
+D:\WcfService1\WcfService1\bin\EntityFramework.xml
+D:\WcfService1\WcfService1\bin\Microsoft.Data.Edm.xml
+D:\WcfService1\WcfService1\bin\Microsoft.Data.OData.xml
+D:\WcfService1\WcfService1\bin\Microsoft.Data.Services.xml
+D:\WcfService1\WcfService1\bin\Microsoft.Data.Services.Client.xml
+D:\WcfService1\WcfService1\bin\System.Spatial.xml
+D:\WcfService1\WcfService1\bin\ru\EntityFramework.resources.dll
+D:\WcfService1\WcfService1\bin\de\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\es\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\it\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\WcfService1\WcfService1\bin\de\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\es\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\fr\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\it\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\ja\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\ko\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\ru\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\WcfService1\WcfService1\bin\de\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\es\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\fr\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\it\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\ja\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\ko\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\ru\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+D:\WcfService1\WcfService1\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\WcfService1\WcfService1\bin\de\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\es\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\fr\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\it\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\ja\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\ko\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\ru\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hans\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\bin\zh-Hant\System.Spatial.resources.dll
+D:\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+D:\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
